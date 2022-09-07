@@ -10,6 +10,7 @@
     alt="stats graph"
     decoding="async"
   />
+  <br />
   <a href="https://www.instagram.com/sanjaiyan_dev" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=follow me on&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
