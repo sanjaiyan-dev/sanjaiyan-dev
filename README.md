@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I am Sanjaiyan :) 
+##### I am 16 year old tech enthusiast 💻
+---
 
-<!--
-**sanjaiyan-dev/sanjaiyan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="sanjaiyan-main-div-wrap" align="center">
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sanjaiyan-dev"
+    height="150"
+    alt="stats graph"
+    decoding="async"
+  />
+  <a href="https://www.instagram.com/sanjaiyan_dev" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=follow me on&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+      height="40"
+      alt="instagram logo"
+      decoding="async"
+    />
+  </a>
+</div>
